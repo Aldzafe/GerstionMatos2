@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using 
 
 namespace GerstionMatos2
 {
@@ -21,5 +22,11 @@ namespace GerstionMatos2
         {
 
         }
+
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+            s
+        }
+
     }
 }
